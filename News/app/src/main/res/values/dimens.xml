@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="list_item_feed_height">60dp</dimen>
+    <dimen name="list_item_feed_margin">10dp</dimen>
+    <dimen name="list_item_feed_padding">16dp</dimen>
+    <dimen name="list_item_feed_image_view_width">48dp</dimen>
+    <dimen name="list_item_feed_image_view_height">48dp</dimen>
+
+    <dimen name="list_item_feed_text_size">16sp</dimen>
+    <dimen name="activity_feed_image_view_dimen">200dp</dimen>
+    <dimen name="activity_feed_title_text_size">24sp</dimen>
+    <dimen name="activity_feed_desc_text_size">16sp</dimen>
+    <dimen name="activity_feed_margin">10dp</dimen>
+
+</resources>

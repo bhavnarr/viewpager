@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">"News"</string>
+
+    <string name="fragment_label_business_feed">Business</string>
+    <string name="fragment_label_top_stories">Top Stories</string>
+    <string name="fragment_label_entertainment">Entertainment</string>
+    <string name="fragment_feed_error">There was an unexpected error</string>
+</resources>
